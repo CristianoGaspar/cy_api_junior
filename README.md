@@ -44,7 +44,12 @@
   </a>
 </p>
 
-## Installing
+Pronto agora vamos montar a estrutura :
+
+1 - Abra o terminal do VS Code de preferência use o terminal com GitBash
+2 - Execute o comando: npm init
+3 - Agora vamos instalar o Cypress localmente
+## Instalando Cypress
 
 [![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
 
@@ -63,4 +68,8 @@ pnpm add cypress --save-dev
 ```
 
 ![installing-cli e1693232](./assets/cypress-installation.gif)
+
+
+4 - Agora vamos criar a estrtura de pastas do cypress 
+    Comando : npx cypress Open
 

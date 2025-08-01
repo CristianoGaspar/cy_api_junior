@@ -47,7 +47,9 @@
 Pronto agora vamos montar a estrutura :
 
 1 - Abra o terminal do VS Code de preferência use o terminal com GitBash
+
 2 - Execute o comando: npm init
+
 3 - Agora vamos instalar o Cypress localmente
 ## Instalando Cypress
 

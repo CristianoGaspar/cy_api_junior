@@ -73,5 +73,6 @@ pnpm add cypress --save-dev
 
 
 4 - Agora vamos criar a estrtura de pastas do cypress 
+    
     Comando : npx cypress Open
 

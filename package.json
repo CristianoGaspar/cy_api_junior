@@ -1,0 +1,14 @@
+{
+  "name": "cy_api_junior",
+  "version": "1.0.0",
+  "description": "Projeto base de estudo para nivel Junior",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristiano.gaspar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}
